@@ -25,10 +25,5 @@ Tras la evaluación de métricas de desempeño alineadas con el negocio bancario
     * **Visualización:** Matplotlib, Seaborn
     * **Machine Learning:** Scikit-learn
 
-## 📂 Estructura del Repositorio
-
-* `Limite_de_credito_bancario2.ipynb`: Cuaderno de Jupyter con el código fuente, análisis y visualizaciones detalladas.
-* `data/`: (Opcional) Carpeta para el conjunto de datos de Kaggle.
-
 ## ✒️ Autor
 **Rugerio Ordoñez Sahira Azenet** - Estudiante de la Facultad de Ciencias Físico Matemáticas, BUAP.
