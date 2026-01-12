@@ -4,7 +4,7 @@ Este repositorio contiene un proyecto integral de **Ciencia de Datos y Finanzas 
 
 ## 🚀 Metodología del Proyecto
 
-El flujo de trabajo se divide en las siguientes etapas críticas para garantizar la robustez del modelo:
+El flujo de trabajo se divide en las siguientes etapas para garantizar la robustez del modelo:
 
 * **Curación de Datos:** Limpieza avanzada, traducción técnica de variables e imputación de valores faltantes basada en perfiles demográficos y límites de crédito.
 * **Análisis Exploratorio (EDA):** Identificación de patrones de comportamiento, sesgos en la distribución de ingresos y segmentación por tipo de tarjeta.
